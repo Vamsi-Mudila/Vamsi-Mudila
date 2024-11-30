@@ -8,7 +8,7 @@ I'm **Vamsi Mudila**, a passionate Data Analyst with a keen interest in data ana
 - 💬 **Ask Me About:** Data visualization tools, statistical analysis methods, and best practices in data cleaning and preprocessing.
 - 📫 **Connect with Me:**
   - Email: [vamsi.mudila@gmail.com](mailto:vamsi.mudila@gmail.com)
-  - LinkedIn: [linkedin.com/in/vamsi-mudila](https://www.linkedin.com/in/vamsi-mudila)
+  - LinkedIn: [linkedin.com/in/vamsi-mudila](www.linkedin.com/in/vamsi-mudila)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I'm a huge Disney fan and enjoy exploring various cuisines and places around the world!
 
