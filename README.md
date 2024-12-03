@@ -1,3 +1,4 @@
+![Banner](https://github.com/user-attachments/assets/b1674d72-29d2-4d0a-9abc-3becdc364795)
 ## Hi there 👋
 
 I'm **Vamsi Mudila**, a passionate Data Analyst with a keen interest in data analysis, visualization, and machine learning. I thrive on transforming raw data into meaningful insights that drive strategic decisions.
