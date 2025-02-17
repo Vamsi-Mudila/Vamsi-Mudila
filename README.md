@@ -18,7 +18,7 @@ I'm **Vamsi Mudila**, a passionate Data Analyst with a keen interest in data ana
   - Email: [vamsi.mudila@gmail.com](mailto:vamsi.mudila@gmail.com)
   - LinkedIn: [linkedin.com/in/vamsi-mudila](https://www.linkedin.com/in/vamsi-mudila/)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** I'm a huge Disney fan and enjoy exploring various cuisines and places around the world!
+- ⚡ **Fun Fact:** I'm a huge Disney & Middle-Earth fan and enjoy exploring various cuisines and places around the world!
 
 ## 🛠️ Projects I'm Proud Of
 - **[Room Utilization Analysis](https://github.com/Vamsi-Mudila/Room-Utilization-Analysis)**: Analyzed room occupancy data to optimize space utilization for a building's ground and first floors. Developed an interactive dashboard using Dash and Plotly to visualize metrics such as average and peak utilization, trends, and anomalies. Delivered actionable recommendations for improved resource allocation and proposed a scalable solution for real-time monitoring and predictive insights.
