@@ -1,8 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/b1674d72-29d2-4d0a-9abc-3becdc364795)
 
 <div align="center">
-  <a href="https://github.com/user-attachments/files/18389657/Vamsi.Mudila_CV.docx">
-    <img src="https://img.shields.io/badge/Download%20CV-blue" alt="Download CV" />
+  <a href="https://vamsi-mudila.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-blue" alt="View Portfolio" />
   </a>
 </div>
 
